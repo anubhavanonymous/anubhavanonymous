@@ -1,3 +1,4 @@
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=anubhavanonymous&tc=333&ic=333)
 <img src="https://komarev.com/ghpvc/?username=anubhavanonymous&label=Profile%20views&color=0e75b6&style=flat-square" alt="anubhavanonymous" /> </p>
 ### We never forgive !
 
