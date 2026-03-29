@@ -80,3 +80,4 @@
 ![Visitor Badge](https://img.shields.io/badge/Hackers%20Welcome-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
 
 </div>
+![.](https://komarev.com/ghpvc/?username=anubhavanonymous&label=&color=0078ff&style=for-the-badge)
