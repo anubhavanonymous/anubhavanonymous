@@ -57,9 +57,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhavanonymous&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavanonymous&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anubhavanonymous&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anubhavanonymous&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anubhavanonymous&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888)
 
