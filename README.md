@@ -1,3 +1,8 @@
+
+![Name](https://img.shields.io/badge/Anubhav%20Kashyap-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41)
+![Title](https://img.shields.io/badge/Security%20Researcher%20%26%20Ethical%20Hacker-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
+
+
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=anubhavanonymous&tc=333&ic=333)
 
 
